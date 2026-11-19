@@ -124,7 +124,7 @@ Mindset:
 ---
 
 <p align="center">
-  <h3 align="center">🚀 Learn | Build | Automate | Deploy | Repeat</h3>
+  <h3 align="center">Think -> Do -> Become</h3>
 </p>
 
 <p align="center">
