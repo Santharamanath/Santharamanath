@@ -1,5 +1,4 @@
-# portfolio
-<h1 align="center">Hi 👋, I'm Santha Ramanath M</h1>
+<h1 align="center">Hi 👋, I'm  Santha Ramanath M </h1>
 <h3 align="center">
 <h2 align="center">
 </h3>
