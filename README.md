@@ -1,114 +1,137 @@
-<h1 align="center">Hi 👋, I'm  Santha Ramanath M </h1>
+# 👋 Hi, I'm Santha Ramanath
+
 <h3 align="center">
-<h2 align="center">
+🚀  Java Web Developer | Python Programmer | Tech Enthusiast
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+DevOps+Engineer;Java+%26+Python+Developer;Exploring+Cloud+Computing;Learning+by+Building+Projects;Always+Growing+%F0%9F%9A%80"/>
+</p>
 
 ---
 
 # 💫 About Me
 
-Location: India 🇮🇳
-Education: B.Tech Information Technology
-College: Saveetha Engineering College
+Education: B.Tech IT Student
 
-Learning:
-  - Java
+Career Goal:
+  - Full Stack Developer
+  - Cloud Engineer
+
+Programming Languages:
+  - Java (Intermediate)
+  - Python (Beginner)
+
+Currently Learning:
+  - Linux
+  - React.js
+  - Node.js
+  - SQL
+  - Cloud Computing
+  - DevOps Tools
+
+Interests:
   - Data Structures & Algorithms
-  - UI/UX Design
-  - Frontend Development
-  - Data Analytics
+  - Software Development
+  - Cloud Technologies
+  - Automation
+  - Building Real-World Projects
 
 Mindset:
-  - Keep Learning 📚
-  - Stay Disciplined 💪
-  - Build Every Day 🚀
+  - Learn Something New Every Day 📚
+  - Build Projects 💻
+  - Stay Consistent 💪
+  - Never Stop Improving 🚀
+```
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Currently Working On
 
-- 🔥 Solving DSA Problems
-- 💻 Building Java Projects
-- 🎨 Designing Modern UI/UX
-- 🌐 Frontend Development
-- 📊 Data Analytics
-
----
-
-# 🧠 Mindset
-
-> "Discipline beats motivation."
-
-> "Success isn't luck. It's consistency."
-
-> "Learn. Build. Improve. Repeat."
+- ☕ Improving my Java programming skills
+- 🐍 Practicing Python and problem-solving
+- 🧠 Solving Data Structures & Algorithms problems
+- 🐧 Learning Linux and command-line operations
+- ☁️ Exploring Cloud Computing and DevOps
+- 🌐 Learning React.js and Node.js
+- 🔧 Building practical development projects
 
 ---
 
-# 🚴 Beyond Coding
-
-- 🚴 Passionate Cyclist
-- 📖 Loves Learning New Technologies
-- 🎯 Believes in Continuous Improvement
-
----
-
-# 🛠 Tech Stack
+# 🛠️ Tech Stack & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,figma,git,github,vscode,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,linux,git,github,vscode"/>
 </p>
 
 ---
 
-# 📊 Most Used Languages
+# 📚 Currently Exploring
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,githubactions"/>
+</p>
 
-• Java ☕
-• Python 🐍
-• HTML5 🌐
-• CSS3 🎨
-• JavaScript ⚡
-• SQL 🗄️
-• XML 📄
+- Linux Fundamentals
+- Docker & Containerization
+- AWS Cloud Fundamentals
+- CI/CD Pipelines
+- Git & GitHub
+- DevOps Automation
 
+---
+
+# 🧠 My Developer Mindset
+
+> "Consistency is the key to mastery."
+
+> "Don't just learn technology. Build something with it."
+
+> "Every expert was once a beginner."
+
+---
+
+# 🎯 My Goals
+
+- Strengthen Data Structures & Algorithms.
+- Become proficient in Linux and Cloud Computing.
+- Build real-world Java and Python projects.
+- Gain hands-on experience with DevOps tools.
+- Contribute to open-source projects.
+- Secure an opportunity in DevOps / Cloud Engineering.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Santharamanath">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/santharamanath-m/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=appusantharamanath@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <a href="https://protofolio-tau-lac.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_View_my-Portfolio-2ea44f?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://github.com/Santharamanth">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/santharamanath-m/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">
+<p align="center">
+  <h3 align="center">🚀 Learn | Build | Automate | Deploy | Repeat</h3>
+</p>
 
-🚀 "Think-> Do-> Become"
-
-</h3>
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile! 
+</p>
