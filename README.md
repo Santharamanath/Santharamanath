@@ -8,7 +8,6 @@
 
 # 💫 About Me
 
-```yaml
 Location: India 🇮🇳
 Education: B.Tech Information Technology
 College: Saveetha Engineering College
@@ -24,7 +23,6 @@ Mindset:
   - Keep Learning 📚
   - Stay Disciplined 💪
   - Build Every Day 🚀
-```
 
 ---
 
