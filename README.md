@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Santha Ramanath
 
 <h3 align="center">
-🚀  Java Web Developer | Python Programmer | Tech Enthusiast
+🚀  Java Web Developer | Aspiring Devops & Cloud Engineer
 </h3>
 
 ---
