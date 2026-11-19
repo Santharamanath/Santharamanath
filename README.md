@@ -38,7 +38,6 @@ Mindset:
   - Build Projects 💻
   - Stay Consistent 💪
   - Never Stop Improving 🚀
-```
 
 ---
 
