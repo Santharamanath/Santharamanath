@@ -4,10 +4,6 @@
 🚀  Java Web Developer | Python Programmer | Tech Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+DevOps+Engineer;Java+%26+Python+Developer;Exploring+Cloud+Computing;Learning+by+Building+Projects;Always+Growing+%F0%9F%9A%80"/>
-</p>
-
 ---
 
 # 💫 About Me
